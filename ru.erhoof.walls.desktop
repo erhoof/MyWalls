@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.erhoof.walls
+Exec=/usr/bin/ru.erhoof.walls
+Name=My Walls
+Name[ru]=Мои Обои
+
+[X-Application]
+Permissions=Internet;Pictures
+OrganizationName=ru.erhoof
+ApplicationName=walls
